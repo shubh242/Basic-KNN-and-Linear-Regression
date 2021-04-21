@@ -1,8 +1,8 @@
 # Basic-KNN-and-Linear-Regression
 
 I have added two basic models of machine learning i.e. ** K nearest neighbour ** and ** Linear Regression **.
-1.  I took this dataset of https://github.com/shubh242/Basic-KNN-and-Linear-Regression/datasets/heart_failure_clinical_records_dataset.csv - automatic! from https://archive.ics.uci.edu/ml/datasets.php which has many datasets.  
+1.  I took this dataset of https://github.com/shubh242/Basic-KNN-and-Linear-Regression/blob/master/datasets/heart_failure_clinical_records_dataset.csv-automatic! from https://archive.ics.uci.edu/ml/datasets.php which has many datasets.  
 2.  In K nearest neighbour model, i did some analysis in what features to be considered which would give us the best accuracy in making predictions.
 3.  I also did some analysis on how many neighbors would be efficient and good in prediction. Ps. I found that keeping the parameter **9** will give us better accuracy for this dataset.
 4.  In linear regression model, i analyze that which features would be good for the model, so it turned out that some features were not linear with my target variable so i dropped those features and did my prediction.
-5.  You will find out that there are some plotting functions in https://github.com/shubh242/Basic-KNN-and-Linear-Regression/test.py file to visualize the data given and make the best out of it.
+5.  You will find out that there are some plotting functions in https://github.com/shubh242/Basic-KNN-and-Linear-Regression/blob/master/test.py-automatic! file to visualize the data given and make the best out of it.
