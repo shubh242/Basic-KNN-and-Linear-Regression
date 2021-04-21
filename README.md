@@ -5,4 +5,4 @@ I have added two basic models of machine learning i.e. ** K nearest neighbour **
 2.  In K nearest neighbour model, i did some analysis in what features to be considered which would give us the best accuracy in making predictions.
 3.  I also did some analysis on how many neighbors would be efficient and good in prediction. Ps. I found that keeping the parameter **9** will give us better accuracy for this dataset.
 4.  In linear regression model, i analyze that which features would be good for the model, so it turned out that some features were not linear with my target variable so i dropped those features and did my prediction.
-5.  You will find out that there are some plotting functions in [test](test.py) file to visualize the data given and make the best out of it.
+5.  You will find out that there are some plotting functions in [models](model.py) file to visualize the data given and make the best out of it.
